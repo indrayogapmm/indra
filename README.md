@@ -1,4 +1,4 @@
-//indra
+# indra
 def encript(plaintext, key):
     encoded = []
 
